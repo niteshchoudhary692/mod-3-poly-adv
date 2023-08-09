@@ -34,7 +34,7 @@ const config: HardhatUserConfig = {
     goerli: {
       url: "https://rpc.ankr.com/eth_goerli", // Replace with your Infura Project ID or Goerli node URL
       accounts: {
-        mnemonic: "vacuum place current bachelor nature fix alpha leisure flag solution window draft" // Replace with your actual mnemonic phrase
+        mnemonic: "speed aware mesh emerge goose topic super catalog else option theme flock" // Replace with your actual mnemonic phrase
       }
     }
   }
